@@ -238,11 +238,6 @@ h2 {
 .service-city-right .section-title h2 {
   max-width: 697px;
 }
-.service-bg img {
-  height: 200px;
-  object-fit: cover;
-  border-radius: 20px;
-}
 @media only screen and (max-width: 991px) {
 h2 {
 	font-size: 2.2rem;
@@ -315,6 +310,11 @@ h2 {
 .service-list-content {
 	margin: 10px 0;
   padding-left: 10px;
+}
+.service-bg img {
+  height: 200px;
+  object-fit: cover;
+  border-radius: 20px;
 }
 }
 .service-video-wrapper {
